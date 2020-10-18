@@ -1,0 +1,8 @@
+G:\My Drive\School\Maths & algorithms\DevMath-master\DevMath\obj\Debug\DevMath.csprojAssemblyReference.cache
+G:\My Drive\School\Maths & algorithms\DevMath-master\DevMath\obj\Debug\DevMath.csproj.CoreCompileInputs.cache
+G:\My Drive\School\Maths & algorithms\DevMath-master\DevMath\bin\Debug\DevMath.dll
+G:\My Drive\School\Maths & algorithms\DevMath-master\DevMath\bin\Debug\DevMath.pdb
+G:\My Drive\School\Maths & algorithms\DevMath-master\DevMath\obj\Debug\DevMath.dll
+G:\My Drive\School\Maths & algorithms\DevMath-master\DevMath\obj\Debug\DevMath.pdb
+C:\School\Building playfull worlds\MathGame-master\Assets\Plugins\DevMath.dll
+C:\School\Building playfull worlds\MathGame-master\Assets\Plugins\DevMath.pdb
